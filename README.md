@@ -1,4 +1,8 @@
-Create iScroll Objects in jQuery style. Instead of: 
+# jQuery iScroll
+
+Create iScroll Objects in jQuery style. 
+
+Instead of: 
 
 `new iScroll('myId');`
 
