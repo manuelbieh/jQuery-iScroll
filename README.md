@@ -12,4 +12,4 @@ you can use:
 
 Plus: a scrollwrapper is created automatically when specifying width or height as option.
 
-After creating a new scroll object you can access iScroll methods via $('#myId').iScroll().refresh() for example.
+After creating a new scroll object you can access iScroll methods via `$('#myId').iScroll().refresh();` for example.
