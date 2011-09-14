@@ -1,8 +1,8 @@
 /*
- * Plugin: jQuery iScroll 0.8
+ * Plugin: jQuery iScroll 0.8 beta
  *
  * Create iScroll Objects in jQuery style. Instead of: 
- *     new iScroll('myId') 
+ *     new iScroll('myId');
  * you can now use :
  *    $('#myId').iScroll();
  * 
